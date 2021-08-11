@@ -2,7 +2,7 @@ let allMusic = [
     {
       name: "Melting",
       artist: "Kali Uchis",
-      img: "C1",
+      img: "c1",
       src: "Melting"
     },
     {
